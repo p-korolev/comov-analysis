@@ -1,2 +1,3 @@
-# comov_analysis
-An informal analysis of price co-movement between sector leader and follower equities.
+# Intra-sector Comovement
+
+This notebook tries to analyze and patternize the comovement between sector-leader and sector-follower equities.
